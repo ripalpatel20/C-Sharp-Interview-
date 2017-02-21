@@ -1,0 +1,6 @@
+c:\users\tej19\onedrive\documents\visual studio 2015\Projects\Question_2\Question_2\bin\Debug\Question_2.exe.config
+C:\Users\tej19\onedrive\documents\visual studio 2015\Projects\Question_2\Question_2\bin\Debug\Question_2.exe
+C:\Users\tej19\onedrive\documents\visual studio 2015\Projects\Question_2\Question_2\bin\Debug\Question_2.pdb
+C:\Users\tej19\onedrive\documents\visual studio 2015\Projects\Question_2\Question_2\obj\Debug\Question_2.csprojResolveAssemblyReference.cache
+C:\Users\tej19\onedrive\documents\visual studio 2015\Projects\Question_2\Question_2\obj\Debug\Question_2.exe
+C:\Users\tej19\onedrive\documents\visual studio 2015\Projects\Question_2\Question_2\obj\Debug\Question_2.pdb
